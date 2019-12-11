@@ -15,4 +15,4 @@ python train.py -b=32
 
 ## some tips
 1. We build our model based on Pytorch 1.1
-2. The details of the model configs can be find in the 'cof' in train.py.
+2. The details of the model configs can be found in the 'cof' in train.py.
